@@ -43,4 +43,4 @@ O arquivo [`diario-de-estudos.md`](./diario-de-estudos.md) registra o que estude
 
 ## 🔗 Contato
 
-**Marllon Lorran** — [LinkedIn](https://www.linkedin.com/in/eumarllonlran/) · [GitHub](https://github.com/eumarllonlran0)
+**Marllon Lorran** — [LinkedIn](https://www.linkedin.com/in/eumarllonlran0/) · [GitHub](https://github.com/eumarllonlran0)
