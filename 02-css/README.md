@@ -18,8 +18,8 @@ Estilização e layout de páginas.
 
 ## Onde apliquei
 
-- [Formulário de Contato](https://github.com/eumarllonlran/formulario-contato-faculdade)
-- [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos)
+- [Formulário de Contato](https://github.com/eumarllonlran0/formulario-contato-faculdade)
+- [Faísca Orçamentos](https://github.com/eumarllonlran0/faisca-orcamentos)
 
 ## Arquivos
 

@@ -29,9 +29,9 @@ O arquivo [`diario-de-estudos.md`](./diario-de-estudos.md) registra o que estude
 
 | Projeto | O que pratiquei |
 | :-- | :-- |
-| [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos) | HTML, CSS, JavaScript, Bootstrap e consumo de API (ViaCEP), em equipe |
-| [Maré Limpa](https://github.com/eumarllonlran/mare-limpa) | HTML semântico, CSS responsivo, JavaScript e `localStorage` |
-| [Formulário de Contato](https://github.com/eumarllonlran/formulario-contato-faculdade) | HTML semântico, acessibilidade, CSS responsivo e manipulação do DOM |
+| [Faísca Orçamentos](https://github.com/eumarllonlran0/faisca-orcamentos) | HTML, CSS, JavaScript, Bootstrap e consumo de API (ViaCEP), em equipe |
+| [Maré Limpa](https://github.com/eumarllonlran0/mare-limpa) | HTML semântico, CSS responsivo, JavaScript e `localStorage` |
+| [Formulário de Contato](https://github.com/eumarllonlran0/formulario-contato-faculdade) | HTML semântico, acessibilidade, CSS responsivo e manipulação do DOM |
 
 ## 📌 Como eu estudo
 
@@ -43,4 +43,4 @@ O arquivo [`diario-de-estudos.md`](./diario-de-estudos.md) registra o que estude
 
 ## 🔗 Contato
 
-**Marllon Lorran** — [LinkedIn](https://www.linkedin.com/in/eumarllonlran/) · [GitHub](https://github.com/eumarllonlran)
+**Marllon Lorran** — [LinkedIn](https://www.linkedin.com/in/eumarllonlran/) · [GitHub](https://github.com/eumarllonlran0)
