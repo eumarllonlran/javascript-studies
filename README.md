@@ -1,45 +1,46 @@
-# 📚 JavaScript Studies
+# 📚 Estudos JavaScript
 
-A repository where I track my progress learning web development, with a focus on **JavaScript and backend development with Node.js**. Each folder is a stage of the learning path, with the topics I've covered, notes and exercises.
+Repositório onde acompanho minha evolução no desenvolvimento web, com foco em **JavaScript e desenvolvimento backend com Node.js**. Cada pasta é uma etapa da trilha, com os assuntos estudados, anotações e exercícios.
 
-> Goal: move from the fundamentals to backend development with Node.js, REST APIs and databases.
+> Objetivo: sair dos fundamentos e chegar ao desenvolvimento backend com Node.js, APIs REST e bancos de dados.
 
-## 🧭 Learning path
+## 🧭 Trilha de estudos
 
-| Stage | Folder | Status |
+| Etapa | Pasta | Status |
 | :-- | :-- | :-- |
-| HTML | [01-html](./01-html) | ✅ Basics completed |
-| CSS | [02-css](./02-css) | ✅ Basics completed |
-| JavaScript | [03-javascript](./03-javascript) | 🟢 In progress |
-| Git & GitHub | [04-git-and-github](./04-git-and-github) | 🟢 In progress |
-| Node.js | [05-nodejs](./05-nodejs) | 🔜 Up next |
-| Databases | [06-databases](./06-databases) | 🟢 In progress (college) |
+| HTML | [01-html](./01-html) | ✅ Base concluída |
+| CSS | [02-css](./02-css) | ✅ Base concluída |
+| JavaScript | [03-javascript](./03-javascript) | 🟢 Em andamento |
+| Git e GitHub | [04-git-e-github](./04-git-e-github) | 🟢 Em andamento |
+| Node.js | [05-nodejs](./05-nodejs) | 🔜 Próxima etapa |
+| Banco de dados | [06-banco-de-dados](./06-banco-de-dados) | 🟢 Em andamento (faculdade) |
 
-## 🗂️ How this repository is organized
+## 🗂️ Como o repositório está organizado
 
-Each folder contains:
+Cada pasta tem:
 
-- a `README.md` listing the stage's topics (✅ studied · ⬜ to study)
-- an `exercises/` folder with the code I practice
-- a `notes.md` file with summaries of what I learned, in my own words
+- um `README.md` com os assuntos da etapa (✅ estudado · ⬜ a estudar)
+- uma pasta `exercicios/` com o código que pratico
+- um arquivo `anotacoes.md` com resumos do que aprendi, com as minhas palavras
 
-The [`study-log.md`](./study-log.md) file logs what I studied each day, to show consistency.
+O arquivo [`diario-de-estudos.md`](./diario-de-estudos.md) registra o que estudei a cada dia, para mostrar constância.
 
-## 🚀 Projects built with what I learned
+## 🚀 Projetos feitos com o que aprendi
 
-| Project | What I practiced |
+| Projeto | O que pratiquei |
 | :-- | :-- |
-| [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos) | HTML, CSS, JavaScript, Bootstrap and API consumption (ViaCEP), as a team |
-| [Contact Form](https://github.com/eumarllonlran/college-contact-form) | Semantic HTML, accessibility, responsive CSS and DOM manipulation |
+| [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos) | HTML, CSS, JavaScript, Bootstrap e consumo de API (ViaCEP), em equipe |
+| [Maré Limpa](https://github.com/eumarllonlran/mare-limpa) | HTML semântico, CSS responsivo, JavaScript e `localStorage` |
+| [Formulário de Contato](https://github.com/eumarllonlran/formulario-contato-faculdade) | HTML semântico, acessibilidade, CSS responsivo e manipulação do DOM |
 
-## 📌 How I study
+## 📌 Como eu estudo
 
-1. Study the topic (course, documentation or college class)
-2. Write a summary in `notes.md`
-3. Practice with an exercise in `exercises/`
-4. Mark the topic as ✅ and log it in `study-log.md`
-5. Commit — a little bit every day
+1. Estudo o assunto (curso, documentação ou aula da faculdade)
+2. Escrevo um resumo em `anotacoes.md`
+3. Pratico com um exercício em `exercicios/`
+4. Marco o assunto como ✅ e registro no `diario-de-estudos.md`
+5. Faço commit — um pouco todos os dias
 
-## 🔗 Contact
+## 🔗 Contato
 
 **Marllon Lorran** — [LinkedIn](https://www.linkedin.com/in/eumarllonlran/) · [GitHub](https://github.com/eumarllonlran)

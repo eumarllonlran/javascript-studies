@@ -1,25 +1,25 @@
 # 01 · HTML
 
-Web page structure and markup.
+Estrutura e marcação de páginas web.
 
-## Topics
+## Assuntos
 
-- ✅ Basic document structure (`<!DOCTYPE>`, `<head>`, `<body>`)
-- ✅ Semantic tags (`<header>`, `<main>`, `<section>`, `<footer>`)
-- ✅ Forms (`<form>`, `<label>`, `<input>`, `<select>`, `<textarea>`)
-- ✅ Grouping fields with `<fieldset>` and `<legend>`
-- ✅ Native validation (`required`, `minlength`, `maxlength`, `type="email"`)
-- ✅ Accessibility basics (`aria-describedby`, `alt`, labels bound to inputs)
-- ⬜ Tables
-- ⬜ Audio and video
-- ⬜ SEO basics (meta tags)
+- ✅ Estrutura básica do documento (`<!DOCTYPE>`, `<head>`, `<body>`)
+- ✅ Tags semânticas (`<header>`, `<main>`, `<section>`, `<footer>`)
+- ✅ Formulários (`<form>`, `<label>`, `<input>`, `<select>`, `<textarea>`)
+- ✅ Agrupamento de campos com `<fieldset>` e `<legend>`
+- ✅ Validação nativa (`required`, `minlength`, `maxlength`, `type="email"`)
+- ✅ Noções de acessibilidade (`aria-describedby`, `alt`, labels ligados aos campos)
+- ⬜ Tabelas
+- ⬜ Áudio e vídeo
+- ⬜ Noções de SEO (meta tags)
 
-## Applied in
+## Onde apliquei
 
-- [Contact Form](https://github.com/eumarllonlran/college-contact-form)
+- [Formulário de Contato](https://github.com/eumarllonlran/formulario-contato-faculdade)
 - [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos)
 
-## Files
+## Arquivos
 
-- [`notes.md`](./notes.md) — study notes
-- [`exercises/`](./exercises) — practice code
+- [`anotacoes.md`](./anotacoes.md) — anotações de estudo
+- [`exercicios/`](./exercicios) — código praticado

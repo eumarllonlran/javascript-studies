@@ -1,20 +1,20 @@
 # 05 · Node.js
 
-Server-side JavaScript — the focus of my career as a backend developer.
+JavaScript no servidor — o foco da minha carreira como desenvolvedor backend.
 
-## Topics
+## Assuntos
 
-- ⬜ What Node.js is and how to install it
-- ⬜ Modules (`require` / `import`) and npm
-- ⬜ File system I/O (`fs`)
-- ⬜ Building an HTTP server
-- ⬜ Express: routing, `req` and `res`
-- ⬜ HTTP methods (GET, POST, PUT, DELETE) and status codes
-- ⬜ Middleware
-- ⬜ Environment variables (`.env`)
-- ⬜ First REST API (CRUD)
+- ⬜ O que é o Node.js e como instalar
+- ⬜ Módulos (`require` / `import`) e npm
+- ⬜ Leitura e escrita de arquivos (`fs`)
+- ⬜ Criação de um servidor HTTP
+- ⬜ Express: rotas, `req` e `res`
+- ⬜ Métodos HTTP (GET, POST, PUT, DELETE) e códigos de status
+- ⬜ Middlewares
+- ⬜ Variáveis de ambiente (`.env`)
+- ⬜ Primeira API REST (CRUD)
 
-## Files
+## Arquivos
 
-- [`notes.md`](./notes.md) — study notes
-- [`exercises/`](./exercises) — practice code
+- [`anotacoes.md`](./anotacoes.md) — anotações de estudo
+- [`exercicios/`](./exercicios) — código praticado
